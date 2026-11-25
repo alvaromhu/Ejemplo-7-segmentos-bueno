@@ -1,4 +1,3 @@
-si
 
 ## How it works
 
